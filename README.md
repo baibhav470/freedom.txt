@@ -7,7 +7,7 @@ Publicly announce your support against internet censorship!
 
 Join the dozens who have already pledged their support.
 
-### Links 
+### Links to follow
 
 * [My freedom.txt](http://www.mvanveen.net/freedom.txt).
 * [Project website](http://wastedcode.com/freedom/).
